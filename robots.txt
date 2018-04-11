@@ -1,0 +1,4 @@
+user-agent:*
+disallow: /cgi-bin
+disallow: /tmp
+disallow: /sxd

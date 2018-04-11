@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+	<!-- favicons -->
+	<link rel="apple-touch-icon" sizes="57x57"         href="img/favicons/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60"         href="img/favicons/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72"         href="img/favicons/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76"         href="img/favicons/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114"       href="img/favicons/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120"       href="img/favicons/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144"       href="img/favicons/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152"       href="img/favicons/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180"       href="img/favicons/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="img/favicons/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32"    href="img/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96"    href="img/favicons/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16"    href="img/favicons/favicon-16x16.png">
+	<link rel="manifest"                               href="img/favicons/manifest.json">
+	<meta name="msapplication-TileColor"               content="#01a2dd">
+	<meta name="msapplication-TileImage"               content="img/favicons/ms-icon-144x144.png">
+	<meta name="theme-color"                           content="#01a2dd">
+
+
+	<!-- PLUGIN Bootstrap 4 (CSS FILE) -->
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+	<!-- PLUGIN jQueryFormStyler (CSS FILE) -->
+	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
+	<!-- PLUGIN jQueryFormStyler (CSS FILE) -->
+	<link rel="stylesheet" href="//cdn.jsdelivr.net/jquery.formstyler/1.7.8/jquery.formstyler.css">
+	<!-- PLUGIN Animate.css (CSS FILE) -->
+	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+	<!-- ASSETS Yandex map (CSS FILE) -->
+	<link rel="stylesheet" href="assets/yamap/yamap.css">
+	<!-- PLUGIN Magnific (CSS FILE) -->
+	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css">
+	<!-- PLUGIN Owl Carousel (CSS FILE) -->
+	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/assets/owl.carousel.min.css">
+	<!-- PLUGIN Owl Carousel Theme (CSS FILE) -->
+	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/assets/owl.theme.default.min.css">
+	<!-- PLUGIN sweetalert (CSS FILE) -->
+	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.css">
+	<!-- STYLE.CSS -->
+	<link rel="stylesheet" href="wp-content/themes/konder/css/style.css">
+
+</head>
+<body>

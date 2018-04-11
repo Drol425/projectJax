@@ -1,0 +1,53 @@
+@import "system";
+
+@media(max-width:991px){
+	html{
+		font-size: 79%;
+	}
+	.sort-menu{
+		> span{
+			display: none;
+		}
+	}
+	.tovars{
+		.tovar{
+			.rub{
+				del,ins{
+					&:after{
+						// top: 1px;
+						margin-left: 2px;
+						// background-size: 88%;
+					}
+				}
+			}
+		}
+	}
+	.tovars-grid .tovar{
+			margin-right: 5%;
+			width: 30%;
+			.fast-view-btn,
+			.fast-buy-btn,
+			.fast-preorder-btn,
+			.cart-btn,
+			.compare-btn{
+				// font-size: 11px;
+			}
+		}
+		.tovars-grid .tovar:nth-child(4n+4){
+			margin-right: 5%;
+		}
+		.tovars-grid .tovar:nth-child(3n+3){
+			margin-right: 0%;
+		}
+
+
+		//popups
+		.callback-popup{
+			.popup-content{
+				width: 60%;
+			}
+		}
+
+
+
+}

@@ -1,0 +1,17 @@
+<div id="cheap-popup" class="callback-popup popup-content" role="dialog">
+	<h1>Нашли дешевле?</h1>
+	<h2>Оставьте ссылку на товар. Мы сделаем скидку!</h2>
+
+	<form name="form_cheap_popup" action="/" method="POST">
+		<input type="text" name="cheap-url" placeholder="Ссылка на товар" maxlength="100">
+		<input type="text" name="client-name" placeholder="Ваше имя" maxlength="40">
+		<div class="phone">
+			<input type="text"   name="client-phone-country-code" placeholder="+7" class="phone-group" value="+7">
+			<div class="phone-code-wrapper">
+				<input type="text" name="client-phone-code" class="phone-group">
+			</div>
+			<input class="phone-number phone-group" type="text" name="client-phone-number">
+		</div>
+		<button type="submit">получить скидку!</button>
+	</form>
+</div>

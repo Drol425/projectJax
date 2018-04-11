@@ -1,0 +1,149 @@
+@import "system";
+
+@media(max-width: 480px){
+	.cap{
+		text-align: center;
+		// padding: 2.5rem 0;
+		padding: 2rem 0 1.5rem;
+	}
+	.site-header{
+		.callback-btn{
+			background-color: transparent;
+			color:$blue-accent;
+			text-decoration: underline;
+			&:hover{
+				color:$blue-accent;
+				background-color: transparent;
+			}
+		}
+		.contacts{
+			text-align: center;
+		}
+		.phones{
+			text-align: center;
+			a{
+				// margin-top: 25px;
+				&:first-child{
+					margin-bottom: 0;
+					margin-right: 4%;
+				}
+			}
+		}
+	}
+
+	// по 2 товара
+	.tovars{
+		.tovar{
+			width: 47%;
+			&:nth-child(n){
+				margin-right: 5%;
+				margin-top: 0;
+			}
+			&:nth-child(2n+2){
+				margin-right: 0;
+			}
+			.fast-view-btn{
+				@include fontSize(11px);
+			}
+			.fast-buy-btn{
+				@include fontSize(11px);
+			}
+		}
+
+	}
+	.pagination{
+		.pagination-left,
+		.pagination-right{
+			background-size: 80%;
+		}
+		.pagination-left{
+			margin-right: 15px;
+		}
+		.pagination-right{
+			margin-left: 15px;
+		}
+
+	}
+
+
+
+
+	.custom-page-header{
+		height: 140px;
+	}
+
+	.company-history .history-text{
+		margin-left: 2rem;
+	}
+
+	// product
+	.page-product{
+		.product-tabs{
+			ul.nav{
+				li{
+					margin-right: 1.5rem;
+					a{
+						font-size: rem(13px);
+					}
+				}
+			}
+		}
+	}
+	#product-features table tbody.table-group tr:nth-of-type(2) > td{
+		width: 45%;
+	}
+	#product-features table th{
+		width: 55%;
+	}
+	#product-features table th{
+		padding-left: 1.5rem;
+	}
+
+
+
+
+
+	.contacts-page{
+		section{
+		figure:last-of-type{
+				margin-bottom: 0;
+			}
+			h2{
+				margin-bottom: 2.5rem;
+			}
+			.contact-form{
+				textarea{
+					min-height: 120px;
+				}
+				button[type=submit]{
+					margin-top: 1rem;
+				}
+			}
+		}
+
+	}
+
+
+	.about-page{
+		.advantages{
+			figure{
+				text-align: center;
+				&:before{
+					left: 50%;
+					transform: translateX(-50%);
+				}
+			}
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+}
+

@@ -1,0 +1,33 @@
+@import "system";
+
+@media(max-width:1199px){
+	html{
+		font-size: 86%;
+	}
+	.cap{
+		padding: 2.743% 0;
+	}
+	.tovars{
+		.tovar{
+			.rub{
+				del,ins{
+					&:after{
+						// top: 0;
+						// background-size: 99%;
+					}
+				}
+			}
+		}
+	}
+	//popups
+	.callback-popup{
+		.popup-content{
+			width: 55%;
+		}
+	}
+
+		#compare-popup.callback-popup.popup-content,
+		#basket-popup.callback-popup.popup-content{
+			width: 94%;
+		}
+}

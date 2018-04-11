@@ -1,0 +1,40 @@
+@import "system";
+
+// ADAPTIVE
+
+@media(max-width:320px){
+	.service{
+		.help-choose{
+			margin-right: 0;
+		}
+	}
+	.page-product{
+		.sku{
+			margin-left: 0;
+		}
+		.product-tabs{
+			ul.nav{
+				li{
+					margin-right: 1rem;
+					a{
+						font-size: .7rem;
+					}
+				}
+			}
+		}
+		.add-review{
+			padding: 2rem 1rem;
+			.star{
+				width: 26px;
+				height: 26px;
+			}
+		}
+		.product-extra-col{
+			width: 4.3rem;
+			figcaption{
+				font-size: 0.7rem;
+			}
+		}
+	}
+
+}

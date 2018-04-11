@@ -1,0 +1,63 @@
+<?php
+
+	$page_uri              = $_SERVER['REQUEST_URI'];
+
+	$page_payment_delivery = "payment-delivery";
+	$page_about            = "about";
+	$page_contacts         = "contacts";
+	$page_product          = "product";
+
+	// descriptions
+	$description_main             = "Купить кондиционеры и вентиляцию с установкой в Санкт-Петербурге, сплит-системы для дома, инверторные кондиционеры: каталог, цены, стоимость установки";
+
+	// Товар Кондиционер
+	$description_product          = "Купить кондиционер Komatsu KSW-07H5 (сплит-система) с инвертором и установкой в СПБ + гарантия. Цена. Отзывы. Описание. Характеристики. Инструкция";
+
+	// Товар Вентиляция
+	// $description_product          = "";
+
+	// +купить клапан вентиляции	2 046
+	// +приточная вентиляция купить	1 538
+	// +пластиковая вентиляция купить	1 252
+	// +системы вентиляции купить	1 044
+
+
+
+	// Вентиляция
+	// Кондиционеры
+	// Прочее оборудование
+
+	$description_payment_delivery = "Оплачивайте наличными. Доставка в регионы или бесплатный самовывоз. Звоните: +7-800-700-83-35 (бесплатно)";
+	$description_about            = "Продаем кондиционеры, вентиляцию с установкой и монтажом в СПБ. Быстрая доставка и гарантия до 5 лет. Звоните: +7-800-700-83-35 (бесплатно)";
+	$description_contacts         = "Время работы офиса: с 10:00 — 18:00 Пн-Пт. Серпуховская улица, дом 34, г Санкт-Петербург. Звоните: +7-800-700-83-35 (бесплатно)";
+
+
+
+	$is_page_payment_delivery = strpos($page_uri,$page_payment_delivery);
+	$is_page_about            = strpos($page_uri,$page_about);
+	$is_page_contacts         = strpos($page_uri,$page_contacts);
+	$is_page_product          = strpos($page_uri,$page_product);
+
+
+
+	if($is_page_payment_delivery){
+		echo $description_payment_delivery;
+	}
+
+	if($is_page_about){
+		echo $description_about;
+	}
+
+	if($is_page_contacts){
+		echo $description_contacts;
+	}
+
+	if($is_page_product){
+		echo $description_product;
+	}
+
+	if((($is_page_payment_delivery  <= 0) && ($is_page_about <= 0) && ($is_page_contacts  <= 0) && ($is_page_product  <= 0))){
+		echo $description_main;
+	}
+
+?>
