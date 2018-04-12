@@ -656,10 +656,8 @@ Author URI: light-sweets.ru
 		</div>
 	</div>
 
-
+<?php get_footer(); ?>
 <?php
-	// Подключаем подвал
-	require "blocks/footer.html";
 
 	// Подключаем скрипты перед </body> и закрывающие теги
 	require "blocks/scripts.html";
