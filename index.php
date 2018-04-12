@@ -16,7 +16,7 @@ Author URI: light-sweets.ru
 
 	<?php
 		// Подключаем filter
-		require "blocks/filter/main-filter.html";
+		require "wp-content/themes/konder/blocks/filter/main-filter.html";
 	?>
 
 		<!-- MAIN -->
@@ -90,7 +90,7 @@ Author URI: light-sweets.ru
 							<div class="availability instock">в наличии</div>
 						</div>
 						<a href="product" class="tovar-photo">
-							<img class="lazy" data-original="uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
+							<img class="lazy" data-original="wp-content/themes/konder/uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
 						</a>
 						<div class="tovar-info-area">
 							<h2 class="tovar-name"><a href="product">Komatsu KSW-07H5</a></h2>
@@ -117,7 +117,7 @@ Author URI: light-sweets.ru
 							<div class="availability instock">в наличии</div>
 						</div>
 						<a href="product" class="tovar-photo">
-							<img class="lazy" data-original="uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
+							<img class="lazy" data-original="wp-content/themes/konder/uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
 						</a>
 						<div class="tovar-info-area">
 							<h2 class="tovar-name"><a href="product">Komatsu KSW-07H5</a></h2>
@@ -171,7 +171,7 @@ Author URI: light-sweets.ru
 							<div class="availability instock">в наличии</div>
 						</div>
 						<a href="product" class="tovar-photo">
-							<img class="lazy" data-original="uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
+							<img class="lazy" data-original="wp-content/themes/konder/uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
 						</a>
 						<div class="tovar-info-area">
 							<h2 class="tovar-name"><a href="product">Komatsu KSW-07H5</a></h2>
@@ -225,7 +225,7 @@ Author URI: light-sweets.ru
 							<div class="availability instock">в наличии</div>
 						</div>
 						<a href="product" class="tovar-photo">
-							<img class="lazy" data-original="uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
+							<img class="lazy" data-original="wp-content/themes/konder/uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
 						</a>
 						<div class="tovar-info-area">
 							<h2 class="tovar-name"><a href="product">Komatsu KSW-07H5</a></h2>
@@ -252,7 +252,7 @@ Author URI: light-sweets.ru
 							<div class="availability outofstock">нет в продаже</div>
 						</div>
 						<a href="product" class="tovar-photo">
-							<img class="lazy" data-original="uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
+							<img class="lazy" data-original="wp-content/themes/konder/uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
 						</a>
 						<div class="tovar-info-area">
 							<h2 class="tovar-name"><a href="product">Komatsu KSW-07H5</a></h2>
@@ -279,7 +279,7 @@ Author URI: light-sweets.ru
 							<div class="availability instock">в наличии</div>
 						</div>
 						<a href="product" class="tovar-photo">
-							<img class="lazy" data-original="uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
+							<img class="lazy" data-original="wp-content/themes/konder/uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
 						</a>
 						<div class="tovar-info-area">
 							<h2 class="tovar-name"><a href="product">Komatsu KSW-07H5</a></h2>
@@ -306,7 +306,7 @@ Author URI: light-sweets.ru
 							<div class="availability instock">в наличии</div>
 						</div>
 						<a href="product" class="tovar-photo">
-							<img class="lazy" data-original="uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
+							<img class="lazy" data-original="wp-content/themes/konder/uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
 						</a>
 						<div class="tovar-info-area">
 							<h2 class="tovar-name"><a href="product">Komatsu KSW-07H5</a></h2>
@@ -333,7 +333,7 @@ Author URI: light-sweets.ru
 							<div class="availability instock">в наличии</div>
 						</div>
 						<a href="product" class="tovar-photo">
-							<img class="lazy" data-original="uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
+							<img class="lazy" data-original="wp-content/themes/konder/uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
 						</a>
 						<div class="tovar-info-area">
 							<h2 class="tovar-name"><a href="product">Komatsu KSW-07H5</a></h2>
@@ -360,7 +360,7 @@ Author URI: light-sweets.ru
 							<div class="availability instock">в наличии</div>
 						</div>
 						<a href="product" class="tovar-photo">
-							<img class="lazy" data-original="uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
+							<img class="lazy" data-original="wp-content/themes/konder/uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
 						</a>
 						<div class="tovar-info-area">
 							<h2 class="tovar-name"><a href="product">Komatsu KSW-07H5</a></h2>
@@ -387,7 +387,7 @@ Author URI: light-sweets.ru
 							<div class="availability instock">в наличии</div>
 						</div>
 						<a href="product" class="tovar-photo">
-							<img class="lazy" data-original="uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
+							<img class="lazy" data-original="wp-content/themes/konder/uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
 						</a>
 						<div class="tovar-info-area">
 							<h2 class="tovar-name"><a href="product">Komatsu KSW-07H5</a></h2>
@@ -414,7 +414,7 @@ Author URI: light-sweets.ru
 							<div class="availability instock">в наличии</div>
 						</div>
 						<a href="product" class="tovar-photo">
-							<img class="lazy" data-original="uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
+							<img class="lazy" data-original="wp-content/themes/konder/uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
 						</a>
 						<div class="tovar-info-area">
 							<h2 class="tovar-name"><a href="product">Komatsu KSW-07H5</a></h2>
@@ -441,7 +441,7 @@ Author URI: light-sweets.ru
 							<div class="availability instock">в наличии</div>
 						</div>
 						<a href="product" class="tovar-photo">
-							<img class="lazy" data-original="uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
+							<img class="lazy" data-original="wp-content/themes/konder/uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
 						</a>
 						<div class="tovar-info-area">
 							<h2 class="tovar-name"><a href="product">Komatsu KSW-07H5</a></h2>
@@ -468,7 +468,7 @@ Author URI: light-sweets.ru
 							<div class="availability instock">в наличии</div>
 						</div>
 						<a href="product" class="tovar-photo">
-							<img class="lazy" data-original="uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
+							<img class="lazy" data-original="wp-content/themes/konder/uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
 						</a>
 						<div class="tovar-info-area">
 							<h2 class="tovar-name"><a href="product">Komatsu KSW-07H5</a></h2>
@@ -495,7 +495,7 @@ Author URI: light-sweets.ru
 							<div class="availability instock">в наличии</div>
 						</div>
 						<a href="product" class="tovar-photo">
-							<img class="lazy" data-original="uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
+							<img class="lazy" data-original="wp-content/themes/konder/uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
 						</a>
 						<div class="tovar-info-area">
 							<h2 class="tovar-name"><a href="product">Komatsu KSW-07H5</a></h2>
@@ -522,7 +522,7 @@ Author URI: light-sweets.ru
 							<div class="availability instock">в наличии</div>
 						</div>
 						<a href="product" class="tovar-photo">
-							<img class="lazy" data-original="uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
+							<img class="lazy" data-original="wp-content/themes/konder/uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
 						</a>
 						<div class="tovar-info-area">
 							<h2 class="tovar-name"><a href="product">Komatsu KSW-07H5</a></h2>
@@ -549,7 +549,7 @@ Author URI: light-sweets.ru
 							<div class="availability instock">в наличии</div>
 						</div>
 						<a href="product" class="tovar-photo">
-							<img class="lazy" data-original="uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
+							<img class="lazy" data-original="wp-content/themes/konder/uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
 						</a>
 						<div class="tovar-info-area">
 							<h2 class="tovar-name"><a href="product">Komatsu KSW-07H5</a></h2>
@@ -576,7 +576,7 @@ Author URI: light-sweets.ru
 							<div class="availability instock">в наличии</div>
 						</div>
 						<a href="product" class="tovar-photo">
-							<img class="lazy" data-original="uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
+							<img class="lazy" data-original="wp-content/themes/konder/uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
 						</a>
 						<div class="tovar-info-area">
 							<h2 class="tovar-name"><a href="product">Komatsu KSW-07H5</a></h2>
@@ -603,7 +603,7 @@ Author URI: light-sweets.ru
 							<div class="availability instock">в наличии</div>
 						</div>
 						<a href="product" class="tovar-photo">
-							<img class="lazy" data-original="uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
+							<img class="lazy" data-original="wp-content/themes/konder/uploads/tovar.png" width="172" height="56" alt="Сплит-система Komatsu KSW-07H5 с инвертором, площадь помещения - 22м² (Кондиционер) Купить недорого в интернет-магазине ГудКлимат. Телефон +7-800-700-83-35" title="Сплит-система Komatsu KSW-07H5 с инвертором (22м²)">
 						</a>
 						<div class="tovar-info-area">
 							<h2 class="tovar-name"><a href="product">Komatsu KSW-07H5</a></h2>
@@ -660,5 +660,5 @@ Author URI: light-sweets.ru
 <?php
 
 	// Подключаем скрипты перед </body> и закрывающие теги
-	require "blocks/scripts.html";
+	require "wp-content/themes/konder/blocks/scripts.html";
 ?>

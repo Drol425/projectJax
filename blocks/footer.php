@@ -64,7 +64,7 @@
 		<div class="filter-container">
 			<?php
 				// Подключаем filter
-				require "blocks/filter/main-filter.html";
+				require "wp-content/themes/konder/blocks/filter/main-filter.html";
 			?>
 		</div>
 			<div class="search-result">
